@@ -1,0 +1,6 @@
+ruff
+mypy
+vulture
+coverage
+pytest
+pre-commit
